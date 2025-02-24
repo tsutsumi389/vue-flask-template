@@ -1,1 +1,1 @@
-# mcp-sample
+# vue-flask-template
